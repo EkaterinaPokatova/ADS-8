@@ -4,7 +4,6 @@
 Train::Train() {
     first = nullptr;
     countOp = 0;
-    length = 0;
 }
 
 void Train::addCage(bool light) {
